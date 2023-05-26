@@ -1,8 +1,8 @@
-						ROCK PAPER SCISSORS GAME
+# 						ROCK PAPER SCISSORS GAME
 
 This is a simple console-based Rock Paper Scissors game implemented in Java. The game allows a player to compete against a computer in multiple rounds of Rock Paper Scissors. The winner of each round earns a point, and the player's and computer's scores are displayed after each round.
 
-GETTING STARTED
+# GETTING STARTED
 
 To run the game, make sure you have Java installed on your system. Follow the steps below to get started:
 
@@ -14,7 +14,7 @@ To run the game, make sure you have Java installed on your system. Follow the st
 
 	4. Run the game:
 
-HOW TO PLAY
+# HOW TO PLAY
 
 When prompted, choose your move by entering one of the following options:
 
@@ -32,7 +32,7 @@ After each round, the player's and computer's scores will be shown.
 
 To play again, enter y for yes when asked. To exit the game, enter n for no.
 
-RULES:
+# RULES:
 
 	Rock beats Scissors.
 
